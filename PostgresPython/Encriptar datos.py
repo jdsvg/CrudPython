@@ -69,3 +69,4 @@ decryptedMsg = obj_Encriptar_Datos.decrypt_AES_GCM(llave)
 #Traer datos
 #Pasar a bytes
 #Desencriptar
+... 
